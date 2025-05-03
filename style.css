@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e004f;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2b007d;
+    padding: 20px;
+}
+
+#logo {
+    width: 100px;
+}
+
+main {
+    margin-top: 40px;
+}
+
+.balance {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.card {
+    font-size: 64px;
+    margin: 20px;
+}
+
+.controls button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#toggle-sound {
+    margin-top: 10px;
+}
